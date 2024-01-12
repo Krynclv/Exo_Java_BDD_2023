@@ -9,7 +9,7 @@
 <body>
     <h1>Modifier le Titre d'un Film</h1>
 
-    <form action="UpdateTitle.jsp" method="post">
+    <form action="modiftitre.jsp" method="post">
         <label for="filmId">ID du Film :</label>
         <input type="text" name="filmId" id="filmId" required>
         <br>
