@@ -9,7 +9,7 @@
 <body>
     <h1>Recherche de Films par Année</h1>
 
-    <form action="rechercheannee.jsp" method="get">
+    <form action="RechercheAnneeResultat.jsp" method="get">
         <label for="anneeRecherche">Année de recherche :</label>
         <input type="text" name="anneeRecherche" id="anneeRecherche" required>
         <br>
