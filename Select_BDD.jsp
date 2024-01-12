@@ -35,7 +35,7 @@
                 String colonne3 = rs.getString("annee");
                 // Faites ce que vous voulez avec les données...
                 // Exemple d'affichage de 2 colonnes
-                out.println("<li>id : " + colonne1 + ", titre : " + colonne2 + ", année : " + colonne3 + "</li>");
+                out.println("<li>id : " + colonne1 + ", titre : " + colonne2 + ", annee : " + colonne3 + "</li>");
             }
 
             // Fermer les ressources 
